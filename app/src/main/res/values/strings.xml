@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CoinCounterAC</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="banner">Please enter in the coin count:</string>
+    <string name="image_nickel">image of a nickel</string>
+    <string name="info_title">Coin Counter</string>
+    <string name="info_description">Made by AC. Choose amount of coins to get total cents.</string>
+    <string name="name">Ahuva Cheifetz</string>
+    <string name="clear">Clear All</string>
+    <string name="about">About</string>
+    <string name="zero">0</string>
+
+</resources>
